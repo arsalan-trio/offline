@@ -1,0 +1,10 @@
+CACHE MANIFEST
+#This is a comment
+
+CACHE
+index.html
+style.css
+plant8.png
+
+FALLBACK:
+/api offline.html
